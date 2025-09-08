@@ -13,25 +13,27 @@ header {
 
 section {
     background: rgb(125, 38, 160);
-    padding-bottom: 80px ;
-    padding-top: 80px ;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
-    justify-content: center ;
+    justify-content: center;
 
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 20px;
 }
 
-h1{
-    font-size: 40px;
+h1 {
+    font-size: 50px;
 }
 
-p{
+p {
     font-size: 20px;
 }
-img(
-    height:100
-)
 
+img {
+    height:200px
 
+}
+    
